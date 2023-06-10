@@ -17,6 +17,8 @@ function App() {
         >
           Learn React
         </a>
+        <div>This is new stuff</div>
+        <h1>This is change</h1>
       </header>
     </div>
   );
